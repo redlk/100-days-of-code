@@ -12,13 +12,21 @@
 
 **Today's Progress**: Completed FreeCodeCamp's [Responsive Design with Bootstrap challange](https://www.freecodecamp.com/map-aside#nested-collapseResponsiveDesignwithBootstrap)
 
-**Thoughts**: More experience with Bootstrap framework. Got rid of custom CSS styling in favor of Bootstrap in Cat Photo App. Using Bootstrap set up jQuary Playground for further exercises. 
+**Thoughts**: More experience with Bootstrap framework. Got rid of custom CSS styling in favor of Bootstrap in Cat Photo App. Using Bootstrap set up jQuary Playground for further exercises.
 
 **Link(s) to work**: [Cat Photo App](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%202(Cat%20Photo%20App%20enhancements)) | [jQuary Playground](https://github.com/redlk/100-days-of-code/blob/master/Days/Day%202%20(jQuery%20Playground))
 
+### Day 3: January 8, 2016
+
+**Today's Progress**: Completed FreeCodeCamp's  [jQuery challenge](https://www.freecodecamp.com/map-aside#nested-collapsejQuery)
+
+**Thoughts**: Learned basic jQuery commands and experimented on the playground.
+
+**Link(s) to work**: [jQuery experiments](https://github.com/redlk/100-days-of-code-progress/blob/master/Day%203%20(jQuery%20In%20The%20Playground))
+
 ### Date
 
-**Today's Progress**: 
+**Today's Progress**:
 
 **Thoughts**:
 
