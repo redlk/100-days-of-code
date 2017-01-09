@@ -24,6 +24,14 @@
 
 **Link(s) to work**: [jQuery experiments](https://github.com/redlk/100-days-of-code-progress/blob/master/Day%203%20(jQuery%20In%20The%20Playground))
 
+### January 9, 2016
+
+**Today's Progress**: Created a tribute page in CodePen for FreeCodeCamp project.
+
+**Thoughts**: Finally got to test the things I have learned while creating a real webpage.
+
+**Link(s) to work**: Tribute to Dieter Rams [on GitHub](https://github.com/redlk/100-days-of-code-progress/blob/master/Day%204%20(Tribute%20To%20Rams)) | [on CodePen](https://codepen.io/redlk/pen/jybWmo)
+
 ### Date
 
 **Today's Progress**:
